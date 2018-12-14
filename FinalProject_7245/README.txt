@@ -1,4 +1,4 @@
-## CSYE 7245 Final Project-PUBG Finish Placement Prediction ##
+# CSYE 7245 Final Project-PUBG Finish Placement Prediction ##
  
 ## ABSTRACT
 
